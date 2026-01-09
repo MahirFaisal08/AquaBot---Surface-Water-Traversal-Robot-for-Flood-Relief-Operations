@@ -1,6 +1,6 @@
 # 🤖 AquaBot – Surface Water Traversal Robot for Flood Relief Operations
 
-![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
+![Language](https://img.shields.io/badge/language-Embedded%20C-blue)
 ![Category](https://img.shields.io/badge/category-Robotics-lightgrey)
 ![Status](https://img.shields.io/badge/status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
